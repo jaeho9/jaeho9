@@ -3,7 +3,7 @@
 - 🌱 Currently learning: React, TypeScript, and Framer Motion.
 - 👩‍💻 Passionate about frontend development and creating interactive web applications.
 - 📫 How to reach me: [l2281@naver.com](mailto:l2281@naver.com)
-- 
+
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
