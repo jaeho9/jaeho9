@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Front-Developer&fontAlign=30&fontSize=40&desc=Jaeho%20Lee&descAlign=60&descAlignY=50&descSize=30&theme=radical)
 
-# 👋 안녕하세요, 저는 프론트 개발자 **이재호**입니다!.
+# 👋 안녕하세요, 저는 프론트 개발자 **이재호**입니다!
 - 📫 Email: [l2281@naver.com](mailto:l2281@naver.com)
 - 📝 Blog: [https://velog.io/@l2281/posts](https://velog.io/@l2281/posts)
 
