@@ -6,12 +6,13 @@
 
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+
 ![React Native](https://img.shields.io/badge/-React%20Native-35495E?style=flat-square&logo=React&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white)
 
 ### 🤝 Collaboration Tools
