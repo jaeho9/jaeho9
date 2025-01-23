@@ -6,7 +6,6 @@
 
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-
 ![React Native](https://img.shields.io/badge/-React%20Native-35495E?style=flat-square&logo=React&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
